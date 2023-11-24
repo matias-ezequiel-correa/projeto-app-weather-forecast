@@ -2,13 +2,13 @@
   Matías Ezequiel Correa - App "Weather Forecast" 🌦
 </h1>
 <p align="center">
-  Este é um projeto pessoal <a href="https://matias-ezequiel-correa.github.io/projeto-spider-verse/" target="_blank">Previsão do Tempo | By Matías Correa,</a> utilizando uma API, feito com HTML, CSS e JavaScript, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
+  Este é um projeto pessoal <a href="https://matias-ezequiel-correa.github.io/projeto-app-weather-forecast/" target="_blank">Previsão do Tempo | By Matías Correa,</a> utilizando uma API, feito com HTML, CSS e JavaScript, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
 </p>
 
 ## Desing: 
-[<p align="center"><img height="400em" src="./src/design/projeto-previsao-tempo.png" alt="Projeto Previsão do Tempo">](https://matias-ezequiel-correa.github.io/projeto-spider-verse/)<p>
+[<p align="center"><img height="400em" src="./src/design/projeto-previsao-tempo.png" alt="Projeto Previsão do Tempo">](https://matias-ezequiel-correa.github.io/projeto-app-weather-forecast/)<p>
 
-### 🔗 Link do Projeto: <a href="https://matias-ezequiel-correa.github.io/projeto-spider-verse/" target="_blank">matias-ezequiel-correa.github.io/projeto-spider-verse/</a>
+### 🔗 Link do Projeto: <a href="https://matias-ezequiel-correa.github.io/projeto-app-weather-forecast/" target="_blank">matias-ezequiel-correa.github.io/projeto-app-weather-forecast/</a>
 
 ## Tecnologias utilizadas:
 
